@@ -1,0 +1,20 @@
+{
+  "name": "tinycolor-import",
+  "homepage": "https://github.com/sharedlabs/tinycolor-import",
+  "authors": [
+    "Pedro Garcia <pdgago@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "tinycolor": "git@github.com:sharedlabs/tinycolor.git#^1.4.0"
+  }
+}
